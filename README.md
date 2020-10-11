@@ -12,6 +12,10 @@ The goal of this project is to develop a sumo bots battle arena that is controll
 
 https://jfalvarezschool.wixsite.com/website/wi-fi-sumo-bots
 
+make sure to look at the task list:
+
+https://freedcamp.com/view/2821203/tasks
+
 **Current teams**:
 Team | Members | Description
 | --- | --- | --- |
