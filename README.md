@@ -1,5 +1,7 @@
 # (WIP)Wi-fi controlled sumo bot using ESP8266 and MQTT 
 
+![sumo_bots_pic](bots.jpg)
+
 
 Repository for our IEEE Wi-fi sumo bots project.
 
