@@ -16,6 +16,8 @@ The goal of this project is to develop a sumo bots battle arena that is controll
 - [x] Motor movement code
 - [x] MQTT support
 - [x] 3D print chassis
+
+
 **To-do list**
 - [ ] Implement web server compatibility
 - [ ] Implement multiple user access
